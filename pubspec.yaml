@@ -1,0 +1,40 @@
+name: shrine
+description: Learn how to use Material for structure and layout.
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  animated_text_kit: ^4.2.2
+  flutter:
+    sdk: flutter
+  intl: ^0.17.0
+
+  cupertino_icons: ^1.0.5
+  shrine_images: ^2.0.2
+  provider : 6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  intl: ^0.17.0
+  url_launcher: ^6.1.14
+  lottie: 2.6.0
+
+
+flutter:
+  # TODO: Insert Fonts (103)
+  uses-material-design: true
+  assets:
+    - assets/diamond.png
+    - assets/0-0.jpg
+    - assets/1-0.jpg
+    - assets/2-0.jpg
+    - assets/3-0.jpg
+    - assets/4-0.jpg
+    - assets/5-0.jpg
+    - assets/bear.json
+    - assets/box.json
+    - assets/energy.json
+
