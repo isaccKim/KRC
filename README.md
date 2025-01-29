@@ -3,7 +3,7 @@
 #🏃‍♂️  KRC
 
 <div align="center">
-<p align="center"><img src="https://user-images.githubusercontent.com/98035984/179438907-a5c8ae27-2a04-4630-ab22-e9d774423d55.png" height="300px" width="300px"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/c7a62dce-7a82-421e-8b95-b6a61bd1522e" height="300px" width="300px"></p>
 
 
 ![Logo1](https://user-images.githubusercontent.com/98035984/179438786-c614ae0c-8f51-4a95-89bf-51da51499473.png)
@@ -30,18 +30,23 @@ HRC는 한동대 러닝어플로 GPS Tracking을 이용한 런닝 기록을 측�
 
 
 <br/>
-
+## 🏃‍♂️ 기술 스택
+ - Flutter :
+ - Fire base : 
+ - Git : 프로젝트 관리
+ - Figma : UX/UI design (디자인 초안 : https://www.figma.com/design/YckGU8fPPqxQ9Ec99R5opi/2023-2-App-Programming?node-id=0-1&p=f&t=9nfG70Du20zQX3fU-0) 
+ - Geolocatgor : GPS tracking
+ - Rive : Interactive Desgin
+ - Google Map : GPS tracking & Marking
   
 ## 🏃‍♂️ 개발 멤버 
- - 석원 : BackEnd/FrontEnd
- - 형진 : BackEnd/FrontEnd
- - 한결 : BackEnd/FrontEnd
+ - 석원 : BackEnd/FrontEnd - GPS tracking & Marking page, Main Page, UX/UI page
+ - 영관 : BackEnd/FrontEnd - Dashboard page, Edit page
 
 <br/>
 
 ## 🏃‍♂️ 소속
   - 한동대학교 전산전자 공학부
-  - CRA
 
 <br/>
 
@@ -54,9 +59,9 @@ HRC는 한동대 러닝어플로 GPS Tracking을 이용한 런닝 기록을 측�
 
 ![Image](https://github.com/user-attachments/assets/a7f3eeac-f50d-44cd-946b-5261be1a5ff6)
 
-![Image](https://github.com/user-attachments/assets/6642b025-38e6-4406-a195-c8715b096eff)
-
 ![Image](https://github.com/user-attachments/assets/79dc536f-8692-470c-baa9-ae671d13d022)
+
+![Image](https://github.com/user-attachments/assets/6642b025-38e6-4406-a195-c8715b096eff)
 
 
 
