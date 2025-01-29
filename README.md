@@ -51,7 +51,7 @@ KRC(Kuyper Running Club)으로 카이퍼 기숙사 구성원들이 러닝 기록
 - 개인 로그 차트 
 - 거리,소속,시간 별 랭킹 차트
 - RC 변경 기능
-- 로그인, 로그아웃, 회원탈퇴 
+- 구글 로그인, 로그아웃
 
 ![Image](https://github.com/user-attachments/assets/a7f3eeac-f50d-44cd-946b-5261be1a5ff6)
 
