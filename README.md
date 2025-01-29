@@ -28,8 +28,6 @@ KRC(Kuyper Running Club)으로 카이퍼 기숙사 구성원들이 러닝 기록
 3. 기존 HRC 어플의 데이터베이스 비용을 절감하는 최적화(상태 관리) 및 인터렉티브한 UX/UI로 개선.
 
 
-
-<br/>
 ## 🏃‍♂️ 기술 스택
  - Flutter : 개발 프레임워크
  - Fire base : DB 
@@ -43,12 +41,10 @@ KRC(Kuyper Running Club)으로 카이퍼 기숙사 구성원들이 러닝 기록
  - 석원 : BackEnd/FrontEnd - GPS tracking & Marking page, Main Page, UX/UI page
  - 영관 : BackEnd/FrontEnd - Dashboard page, Edit page
 
-<br/>
 
 ## 🏃‍♂️ 소속
   - 한동대학교 전산전자 공학부
 
-<br/>
 
 ## 🏃‍♂️ 기능 구현                                                                                                        
 - GPS Tracking, Marking
@@ -58,11 +54,11 @@ KRC(Kuyper Running Club)으로 카이퍼 기숙사 구성원들이 러닝 기록
 - 로그인, 로그아웃, 회원탈퇴 
 
 ![Image](https://github.com/user-attachments/assets/a7f3eeac-f50d-44cd-946b-5261be1a5ff6)
-- 러닝 시작 페이지와 Dashboard 입니다. 러닝 기록은 그래프로 한 눈에 볼 수 있는 기능이 구현되어 있습니다.
+**러닝 시작 페이지와 Dashboard 입니다. 러닝 기록은 그래프로 한 눈에 볼 수 있는 기능이 구현되어 있습니다.**
 ![Image](https://github.com/user-attachments/assets/79dc536f-8692-470c-baa9-ae671d13d022)
-- 러닝 시작 버튼을 누르면 카운트 다운을 하고, 러닝 기록이 실기간으로 업데이트 됩니다. 또한 지도에 러닝 경로가 나타나며 DB에 저장됩니다.
+**러닝 시작 버튼을 누르면 카운트 다운이 실행되며, 러닝 기록이 실기간으로 업데이트 됩니다.**
 ![Image](https://github.com/user-attachments/assets/6642b025-38e6-4406-a195-c8715b096eff)
-- Rive 패키지로 구현된 인터랙티브 그래프가 러닝 횟수에 따라 동적으로 움직입니다. 또한 러닝 목표 및 개인 프로필 수정이 가능합니다.
+**Rive 패키지로 구현된 인터랙티브 그래프가 러닝 횟수에 따라 동적으로 움직입니다. 또한 러닝 목표 및 개인 프로필 수정이 가능합니다.**
 
 
 
