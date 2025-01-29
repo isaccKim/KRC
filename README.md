@@ -4,7 +4,7 @@
 
 <div align="center">
 <p align="center"><img src="https://github.com/user-attachments/assets/c7a62dce-7a82-421e-8b95-b6a61bd1522e" height="300px" width="300px"></p>
-
+KRC 마스코트
 
 ![Logo1](https://user-images.githubusercontent.com/98035984/179438786-c614ae0c-8f51-4a95-89bf-51da51499473.png)
 
@@ -31,8 +31,8 @@ HRC는 한동대 러닝어플로 GPS Tracking을 이용한 런닝 기록을 측�
 
 <br/>
 ## 🏃‍♂️ 기술 스택
- - Flutter :
- - Fire base : 
+ - Flutter : 개발 프레임워크
+ - Fire base : DB 
  - Git : 프로젝트 관리
  - Figma : UX/UI design (디자인 초안 : https://www.figma.com/design/YckGU8fPPqxQ9Ec99R5opi/2023-2-App-Programming?node-id=0-1&p=f&t=9nfG70Du20zQX3fU-0) 
  - Geolocatgor : GPS tracking
