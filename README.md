@@ -34,7 +34,7 @@ KRC(Kuyper Running Club)으로 카이퍼 기숙사 구성원들이 러닝 기록
  - Flutter : 개발 프레임워크
  - Fire base : DB 
  - Git : 프로젝트 관리
- - Figma : UX/UI design (디자인 초안 : https://www.figma.com/design/YckGU8fPPqxQ9Ec99R5opi/2023-2-App-Programming?node-id=0-1&p=f&t=9nfG70Du20zQX3fU-0) 
+ - Figma : UX/UI design
  - Geolocatgor : GPS tracking
  - Rive : Interactive Desgin
  - Google Map : GPS tracking & Marking
